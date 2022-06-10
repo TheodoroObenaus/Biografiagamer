@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body 
+    {
+        background-color: goldenrod;          
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+    }
+a 
+    {
+        color: maroon;
+    }
+h1, 
+h2    
+    {
+        color: crimson;
+    }
+img 
+    {
+        text-align: center;
+    }
+p 
+    {
+        font-size: large;
+    }
+img
+    {
+        border-style: ridge;
+        border-color: black;
+    }
